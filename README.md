@@ -1,5 +1,5 @@
 # Grafical-Match-Matrix
-iki diilimin eşleşen noktalarını gösteren bir tablo oluştuturur.
+iki dizilimin eşleşen noktalarını gösteren bir tablo oluştuturur.
 <h2>Süreç</h2>
 • Ödevi yapacağım dil olarak Python programlama dilini seçtim. <br>
 • Görsel programlama için ise PyQt5 modülünü kullanmaya karar verdir. <br>
